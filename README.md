@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exequiellares&label=Profile%20views&color=0e75b6&style=flat" alt="exequiellares" /> </p>
 
-- 🔭 I’m currently working as **Magento Technical Lead** at Summa Solutions
+- 🔭 I’m currently working as **Magento Technical Lead** at OmniPro
 
 <p align="left">
 </p>
